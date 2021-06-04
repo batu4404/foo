@@ -1,6 +1,6 @@
 {
-  "name": "@batu/foo",
-  "version": "0.0.2",
+  "name": "@batu1234/batu-foo",
+  "version": "0.0.3",
   "description": "This is a test project :)",
   "author": "batu4404",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "156bd5b68b05824ad96a9bb032f00570c2ca2468"
+  "gitHead": "d92dc483b2d147f09b0f5a26dc8f31d6ee33c084"
 }
