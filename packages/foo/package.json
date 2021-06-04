@@ -1,0 +1,19 @@
+{
+  "name": "@batu/foo",
+  "version": "0.0.1",
+  "description": "This is a test project :)",
+  "author": "batu4404",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/foo.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
